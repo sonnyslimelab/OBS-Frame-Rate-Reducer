@@ -2,8 +2,6 @@
 
 A simple OBS Studio filter plugin that creates a low-frame-rate effect by reducing the output frame frequency.
 
-![Frame Rate Reducer Preview](framehold_capture01.png)
-
 ## ✨ Features
 
 - 🎞️ Create a low FPS / stutter-style visual effect
@@ -13,10 +11,10 @@ A simple OBS Studio filter plugin that creates a low-frame-rate effect by reduci
 
 ## 📸 Preview
 
-### Filter Settings
-![Frame Rate Reducer Settings](framehold_capture02.jpg)
+![Frame Rate Reducer Preview](framehold_capture01.png)
 
-### Low Frame Rate Effect
+### Preview Source from
+![Frame Rate Reducer Settings](framehold_capture02.jpg)
 ![Frame Rate Reducer Effect](framehold_capture03.jpg)
 
 ## 🚀 Installation
