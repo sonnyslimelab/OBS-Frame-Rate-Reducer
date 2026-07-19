@@ -1,0 +1,11 @@
+{
+  "version": 3,
+  "configurePresets": [
+    {
+      "name": "windows-x64-2026",
+      "inherits": "windows-x64",
+      "generator": "Visual Studio 18 2026",
+      "architecture": "x64"
+    }
+  ]
+}
