@@ -29,6 +29,7 @@ A simple OBS Studio filter plugin that creates a low-frame-rate effect by reduci
 
 - Retro game / old camera effects
 - Low FPS video style
+- CCTV effects
 - Stream transitions
 - Creative visual effects
 - Stylized camera effects
