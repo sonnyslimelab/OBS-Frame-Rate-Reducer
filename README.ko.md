@@ -1,3 +1,4 @@
+[English](README.md) | [한국어](README.ko.md)
 # 🎬 OBS용 Frame Rate Reducer
 
 OBS Studio에서 영상의 출력 프레임 빈도를 조절하여 저프레임(Low FPS) 효과를 만들어주는 필터 플러그인입니다.
